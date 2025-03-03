@@ -31,6 +31,6 @@ I am currently a second-year undergraduate student majoring in Computer Science 
 - 
 ## Contact Information
 
-- **Email**: [kyzhu2023@mail.sustech.edu.cn]
+- **Email**: kyzhu2023 AT mail.sustech.edu.cn
 
 Thank you for visiting my homepage. I look forward to engaging with fellow researchers and exploring potential collaborations in the field of artificial intelligence! 
